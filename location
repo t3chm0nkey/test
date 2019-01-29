@@ -1,0 +1,28 @@
+"remoteDataList": [
+  {
+      "key": "1",
+      "name": "test1",
+      "shapePoints": [
+          40.099998,
+          -76.305603
+      ]
+  },
+  {
+      "key": "2",
+      "name": "test2",
+      "shapePoints": [
+          40.099996,
+          -76.305603
+      ]
+  },
+  {
+      "key": "3",
+      "name": "test3",
+      "shapePoints": [
+          40.099995,
+          -76.305603
+      ]
+  },
+  
+]
+
